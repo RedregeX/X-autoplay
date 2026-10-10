@@ -17,4 +17,3 @@ HOW IT WORKS
 - Your first click anywhere on X unlocks sound for the page.
 - If necessary, a small "Enable autoplay sound" button appears at the bottom-right.
 
-Chrome itself can block unmuted autoplay before a user interaction. An extension content script cannot fully bypass that browser-level policy.
